@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.form{
+    margin:0% 20% 0% 20%;
+    float: left;
+
+}
+.logo .first{
+    margin-top: -50px;
+}
+.logo .second{
+    margin-left: 85%;
+    height: 40px;
+    margin-top:15px;
+}
+.reg p{
+    font-size: 25px;
+    color: #0054A6;
+    border-bottom: 1px solid #b4ce45;
+}
+.First_select select{
+    height: 28px;
+    width: 210px;
+    border: 1px solid #b4ce45;
+}
+.First_select input{
+    height: 27px;
+    width: 300px;
+    border: 1px solid #b4ce45;
+}
+.father input{
+    height: 27px;
+    width: 200px;
+    border: 1px solid #b4ce45;
+    
+}
+.father select{
+    height: 27px;
+    width: 200px;
+    border: 1px solid #b4ce45;
+}
+.email input{
+    height: 27px;
+    width: 365px;
+    border: 1px solid #b4ce45;
+}
+.employee .income{
+    height: 27px;
+    width: 483px;
+    border: 1px solid #b4ce45;
+}
+.present_address p{
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.present_address input{
+    height: 27px;
+    width: 798px;
+    border: 1px solid #b4ce45;
+}
+.city input{
+    height: 27px;
+    width: 356px;
+    border: 1px solid #b4ce45;
+}
+.division select{
+    height: 27px;
+    width: 213px;
+    border: 1px solid #b4ce45
+}
+.education p{
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.education input{
+    height: 27px;
+    width: 360px;
+    border: 1px solid #b4ce45
+}
+.photo p{
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.photo h3{
+    font-size: 16px;
+    color: rgba(0, 0, 0, 0.562);
+}
+.security p{
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.603);
+}
+.security input{
+    height: 27px;
+    width: 213px;
+    border: 1px solid #b4ce45
+}
+.reset .save{
+    text-align: center;
+    background-color: #b4ce45;
+}
+.reset{
+    margin-left: 40%;
+}
+.reset input{
+    height: 25px;
+    width: 62px;
+    padding: 7px;
+    text-align: center;
+    margin: 5px;
+}
